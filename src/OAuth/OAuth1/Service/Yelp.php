@@ -56,6 +56,7 @@ class Yelp extends AbstractService {
     protected function parseRequestTokenResponse($responseBody)
     {
         return null;
+    }
 
     /**
      * {@inheritdoc}
