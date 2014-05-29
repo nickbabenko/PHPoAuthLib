@@ -47,7 +47,7 @@ class Yelp extends AbstractService {
      */
     public function getAccessTokenEndpoint()
     {
-        return null
+        return null;
     }
 
     /**
